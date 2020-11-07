@@ -94,7 +94,7 @@ end
 
 ### Small image
 
-(https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Beach](https://github.com/gspas/gspas.github.io/blob/main/photo1.jpg)
 
 ### Large image
 
